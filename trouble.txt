@@ -1,0 +1,13 @@
+sudo lsof -i :8081
+
+kill -9 <PID>
+
+//rally-coding
+npm install --save eslint-config-rallycoding
+
+//run emulator on amulator/sdk/tools path
+./emulator -avd Nexus_5X_API_25
+
+
+
+
